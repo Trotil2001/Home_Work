@@ -7,6 +7,7 @@
 22 3 9 -> 22
 */
 
+
 Console.Write("Введите первое число a: ");
 int a = Convert.ToInt32(Console.ReadLine());
 Console.Write("Введите второе число b: ");
