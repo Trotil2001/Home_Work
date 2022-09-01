@@ -11,11 +11,11 @@
 Console.Write("Введите число a: ");
 int a = Convert.ToInt32(Console.ReadLine());
 
-if (a % 2 == 0 )
-  {
-    Console.WriteLine ("Число a: " +a + " является четным числом!");
-  }
+if (a % 2 == 0)
+{
+    Console.WriteLine("Число a: " + a + " является четным числом!");
+}
 else
-  {
-    Console.WriteLine ("Число a: " +a + " не является четным числом!");
-  }
+{
+    Console.WriteLine("Число a: " + a + " не является четным числом!");
+}
